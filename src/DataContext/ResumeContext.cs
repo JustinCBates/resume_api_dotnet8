@@ -1,7 +1,7 @@
 using resume_api.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace resume_api.Data
+namespace resume_api.DataContext
 {
   public class ResumeContext : DbContext
   {

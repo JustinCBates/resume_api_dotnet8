@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using  resume_api.DataContext;
 
 namespace resume_api;
 

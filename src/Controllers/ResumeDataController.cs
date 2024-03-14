@@ -1,6 +1,6 @@
 using resume_api.Models;
 using Microsoft.AspNetCore.Mvc;
-using resume_api.Data;
+using resume_api.DataContext;
 using Microsoft.EntityFrameworkCore;
 
 namespace resume_api.Controllers;
